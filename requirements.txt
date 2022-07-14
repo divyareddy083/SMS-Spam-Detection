@@ -1,7 +1,5 @@
 streamlit
 nltk
-stopwords
-PorterStemmer
 sklearn
-protobuf
 pandas
+protobuf
