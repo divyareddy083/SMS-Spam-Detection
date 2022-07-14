@@ -1,3 +1,6 @@
 streamlit
 nltk
 sklearn
+protobuf
+pickle
+pandas
