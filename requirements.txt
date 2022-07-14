@@ -4,5 +4,4 @@ stopwords
 PorterStemmer
 sklearn
 protobuf
-pickle
 pandas
