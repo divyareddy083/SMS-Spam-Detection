@@ -1,5 +1,3 @@
 streamlit
 nltk
 sklearn
-pandas
-protobuf
